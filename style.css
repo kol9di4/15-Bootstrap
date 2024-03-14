@@ -1,0 +1,10 @@
+header .container-fluid{
+    background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1614406827_43-p-fon-na-komp-temnii-53.jpg');
+    background-position: right;
+}
+.navbar{
+    background-color: black;
+}
+main{
+    background-color: black;
+}
